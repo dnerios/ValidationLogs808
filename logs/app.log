@@ -1,0 +1,37 @@
+2022-02-09 20:23:13,345 INFO PeFeijaoApplication [main] Iniciou o cozimento...
+2022-02-09 20:23:13,434 INFO o.h.v.i.u.Version [main] HV000001: Hibernate Validator 7.0.2.Final
+2022-02-09 20:25:43,128 INFO PeFeijaoApplication [main] Iniciou o cozimento...
+2022-02-09 20:25:43,419 INFO o.h.v.i.u.Version [main] HV000001: Hibernate Validator 7.0.2.Final
+2022-02-09 20:25:46,597 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:25:46,597 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:25:46,597 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
+2022-02-09 20:27:44,481 INFO PeFeijaoApplication [main] Iniciou o cozimento...
+2022-02-09 20:27:44,651 INFO o.h.v.i.u.Version [main] HV000001: Hibernate Validator 7.0.2.Final
+2022-02-09 20:27:46,045 FATAL PeFeijaoApplication [main] Geraldo esqueceu o feijão no fogo, dnv...
+2022-02-09 20:27:46,073 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:27:46,073 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
+2022-02-09 20:27:46,074 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:30:17,298 FATAL PeFeijaoApplication [main] Geraldo esqueceu o feijão no fogo, dnv...
+2022-02-09 20:30:17,398 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
+2022-02-09 20:30:17,403 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:30:17,404 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:41:05,748 FATAL PeFeijaoApplication [main] Geraldo esqueceu o feijão no fogo, dnv...
+2022-02-09 20:41:05,764 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
+2022-02-09 20:41:05,764 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:41:05,764 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:42:23,982 FATAL PeFeijaoApplication [main] Geraldo esqueceu o feijão no fogo, dnv...
+2022-02-09 20:42:24,011 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
+2022-02-09 20:42:24,011 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:42:24,012 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:53:04,035 FATAL PeFeijaoApplication [main] Geraldo esqueceu o feijão no fogo, dnv...
+2022-02-09 20:53:04,101 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
+2022-02-09 20:53:04,102 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:53:04,103 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:53:31,326 FATAL PeFeijaoApplication [main] Geraldo esqueceu o feijão no fogo, dnv...
+2022-02-09 20:53:31,403 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:53:31,404 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:53:31,405 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
+2022-02-09 20:55:28,003 FATAL PeFeijaoApplication [main] Geraldo esqueceu o feijão no fogo, dnv...
+2022-02-09 20:55:28,038 ERROR PeFeijaoApplication [main] Atributo: nome - must be less than or equal to 3
+2022-02-09 20:55:28,039 ERROR PeFeijaoApplication [main] Atributo: cor - UX ajuda a vender.
+2022-02-09 20:55:28,039 ERROR PeFeijaoApplication [main] Atributo: rendimento - Valor mínimo não atingido.
